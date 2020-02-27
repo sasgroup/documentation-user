@@ -134,5 +134,5 @@ ticking the related boxes on the right of the calendar view.
     dragging and dropping the task to another case.
 
 .. seealso::
-    * :doc:`../configuration/setup`
-    * :doc:`forecast`
+    * :doc:`../overview/setup`
+    * :doc:`./forecast`
